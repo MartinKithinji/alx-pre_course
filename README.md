@@ -2,7 +2,7 @@
 ## Name
 ALX-pre_course
 ## Decription
-ALX-pre_courser is a software project for the ALX software engineer class.
+This a pre_course project for the ALX software engineer class.
 
 ## Installation
 
